@@ -1,0 +1,183 @@
+/* When light background is selected */
+
+@-moz-document url-prefix("about:reader") {
+    .moz-reader-content {
+        text-align: justify !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+    }
+
+    .dark {
+        background-color: #2a2a2d !important;
+    }
+
+    .dark .content-width1 {
+        padding: 5% !important;
+        background-color: #333333 !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #4B4A50 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .dark .content-width2 {
+        padding: 5% !important;
+        background-color: #333333 !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #4B4A50 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .dark .content-width3 {
+        padding: 5% !important;
+        background-color: #333333 !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #4B4A50 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .dark .content-width4 {
+        padding: 5% !important;
+        background-color: #333333 !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #4B4A50 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .dark .content-width5 {
+        padding: 5% !important;
+        background-color: #333333 !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #4B4A50 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .dark .content-width6 {
+        padding: 5% !important;
+        background-color: #333333 !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #4B4A50 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .dark .content-width7 {
+        padding: 5% !important;
+        background-color: #333333 !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #4B4A50 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .dark .content-width8 {
+        padding: 5% !important;
+        background-color: #333333 !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #4B4A50 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .dark .content-width9 {
+        padding: 5% !important;
+        background-color: #333333 !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #4B4A50 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+
+    .light {
+        background-color: #fbfbfb !important;
+    }
+
+    .light .content-width1 {
+        padding: 5% !important;
+        background-color: #ffffff !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #b5b5b5 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .light .content-width2 {
+        padding: 5% !important;
+        background-color: #ffffff !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #b5b5b5 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .light .content-width3 {
+        padding: 5% !important;
+        background-color: #ffffff !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #b5b5b5 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .light .content-width4 {
+        padding: 5% !important;
+        background-color: #ffffff !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #b5b5b5 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .light .content-width5 {
+        padding: 5% !important;
+        background-color: #ffffff !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #b5b5b5 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .light .content-width6 {
+        padding: 5% !important;
+        background-color: #ffffff !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #b5b5b5 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .light .content-width7 {
+        padding: 5% !important;
+        background-color: #ffffff !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #b5b5b5 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .light .content-width8 {
+        padding: 5% !important;
+        background-color: #ffffff !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #b5b5b5 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .light .content-width9 {
+        padding: 5% !important;
+        background-color: #ffffff !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        border-color: #b5b5b5 !important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+}
