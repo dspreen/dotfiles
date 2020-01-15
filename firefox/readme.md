@@ -15,8 +15,12 @@ For users of Firefox 69 and above, the following additional step is necessary:
 8. Make sure the toggle is set to `true`.
 9. Restart Firefox.
 
+Note: I don't care for sepia, so I am using it for a third style that resembles the first iteration of macOS's dark mode: dark context but light content.
+
 The result should look like this:
 
 ![Example Article in Light Mode](screenshot-light.png?raw=true "Example Article in Light Mode")
 
 ![Example Article in Dark Mode](screenshot-dark.png?raw=true "Example Article in Dark Mode")
+
+![Example Article in Sepia Mode](screenshot-sepia.png?raw=true "Example Article in 'Sepia' Mode")
